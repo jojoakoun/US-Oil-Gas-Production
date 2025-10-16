@@ -79,13 +79,4 @@ By combining **SARIMA forecasting** and **Extra Trees classification**, we achie
 - **Model Types:** ARIMA/SARIMA (Time Series), Extra Trees (Classification)  
 - **Environment:** Jupyter Notebook  
 
----# Us-Oil-Gas-production-disposition
-# Us-Oil-Gas-production-disposition
-# Us-Oil-Gas-production-disposition
-# Us-Oil-Gas-production-disposition
-# Us-Oil-Gas-production-disposition
-# Us-Oil-Gas-production-disposition
-# Us-Oil-Gas-production-disposition
-# Us-Oil-Gas-production-disposition
-# US-Oil-Gas-Production
-# US-Oil-Gas-Production
+
