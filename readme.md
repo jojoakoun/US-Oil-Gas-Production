@@ -18,7 +18,3 @@ Beyond raw production volumes, the dataset includes detailed **disposition categ
 **Temporal Scope:** January 2015 – September 2025 (monthly frequency)  
 **License:** [Creative Commons CCZero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) – Public Domain  
 **Official Source:** [ONRR Monthly Production Disposition Data](https://revenuedata.doi.gov/downloads/production/)
-
----
-
-📘 *This dataset forms the foundation of the U.S. Oil & Gas Production Forecasting project, enabling the exploration of production dynamics, operational behavior, and policy-relevant trends across the energy sector.*
