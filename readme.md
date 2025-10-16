@@ -11,7 +11,7 @@ Two modeling pipelines were developed:
 
 ### ⏳ Time Series Forecasting
 - Models: **AR**, **MA**, **ARMA**, **ARIMA**, and **SARIMA**
-- ✅ **Best Model:** `SARIMA(1,1,1)(0,1,1,12)` — captured both long-term trends and seasonality with low error (MAPE < 8%)
+- ✅ **Best Model:** `ARIMA(1,1,1)` — captured both long-term trends and seasonality with low error
 - **ARIMA** provided strong overall forecasts, while **SARIMA** slightly improved seasonal accuracy
 
 ### 🎯 Classification Models
